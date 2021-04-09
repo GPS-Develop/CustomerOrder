@@ -1,0 +1,15 @@
+// Name: Gurpreet Singh
+// Seneca Student ID: 074913146
+// Seneca email: gsingh432@myseneca.ca
+// Date of completion: Nov 28/2020
+//
+// I confirm that I am the only author of this file
+//   and the content was created entirely by me.
+
+This was a very fun but interesting milestone. In order to complete this milestone, it required the use of a lot of the skills that I learned throughout the course. 
+
+Breaking complex problems into smaller bits is the core of Object Oriented Programming which was used to complete the milestone. Splitting this milestone into 3 parts was very helpful as solving this big project all at once can be quite challenging. Moving forward in my professional life, I will use this technique to break a large task into smaller bits and work on them one at a time. 
+
+The Instructions provided on the Github page was helpful but following along with the professor did help on concepts that I was unsure about and help me move forward in the project. Most of the functions that we did in this project were taught in our workshop and this milestone basically brought it all together.
+
+Finally, using breakpoints and walking through the code is lifesaver as without it there were many scenarios when the code had gotten so big that it was hard to keep track of what was actually causing the issue. 
